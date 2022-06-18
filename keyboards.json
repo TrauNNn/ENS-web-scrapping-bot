@@ -1,0 +1,10 @@
+{
+  "menu": [
+    "Show available domains",
+    "Show all domains in database",
+    "Insert new domains",
+    "Delete some domains",
+    "Select domains with notification",
+    "Remove notification from domains"
+  ]
+}
