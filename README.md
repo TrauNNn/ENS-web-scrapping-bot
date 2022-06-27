@@ -8,7 +8,7 @@ Recommended limit of stored domains is 5000, but if you want you can store more.
 - JSON
 
 - Python packages:
-- # Selenium
-- # BeautifulSoup4
-- # telebot
-- # webdriver_manager
+- Selenium
+- BeautifulSoup4
+- telebot
+- webdriver_manager
